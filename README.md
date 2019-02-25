@@ -1,0 +1,9 @@
+# Iterative Proxy Request Scripts
+## Anonymous_iterative_proxy_requests.py
+This script retrieves the IP and corresponding port for freely accessible proxies that offer anonymity. It then makes a request to <a href="https://httpbin.org/ip">https://httpbin.org/ip</a>, where it retrieves the IP address of the connection being used, i.e. the IP address of the given proxy. The proxy list is retrieved from the following URL: <a href="https://free-proxy-list.net/anonymous-proxy.html">https://free-proxy-list.net/anonymous-proxy.html</a>
+## Global_iterative_proxy_requests.py
+This script retrieves the IP and corresponding port for freely accessible proxies located anywhere on the globe. It then makes a request to <a href="https://httpbin.org/ip">https://httpbin.org/ip</a>, where it retrieves the IP address of the connection being used, i.e. the IP address of the given proxy. The proxy list is retrieved from the following URL: <a href="https://free-proxy-list.net/">https://free-proxy-list.net/</a>
+## UK_iterative_proxy_requests.py
+This script retrieves the IP and corresponding port for freely accessible proxies located within the United Kingdom. It then makes a request to <a href="https://httpbin.org/ip">https://httpbin.org/ip</a>, where it retrieves the IP address of the connection being used, i.e. the IP address of the given proxy. The proxy list is retrieved from the following URL: <a href="https://free-proxy-list.net/uk-proxy.html">https://free-proxy-list.net/uk-proxy.html</a>
+## US_iterative_proxy_requests.py
+This script retrieves the IP and corresponding port for freely accessible proxies located within the United States of America. It then makes a request to <a href="https://httpbin.org/ip">https://httpbin.org/ip</a>, where it retrieves the IP address of the connection being used, i.e. the IP address of the given proxy. The proxy list is retrieved from the following URL: <a href="https://www.us-proxy.org/">https://www.us-proxy.org/</a>
